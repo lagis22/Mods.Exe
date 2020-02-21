@@ -33,7 +33,3 @@
 * Remove /resolve because its patched
 
 
-![x](https://i.imgur.com/RG2o9pM.png "Mods pic 3")
-![x](https://i.imgur.com/3DFiMgS.png "Mods pic 2")
-![x](https://i.imgur.com/Lndhj70.png "Mods pic 1")
-
