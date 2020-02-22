@@ -23,7 +23,10 @@
 * Works with subserver switching
 
 ## Changelog
-# 1.4.2
+# 1.4.3
+
+* Add /kill all - Kill All On Worlds
+* Add /kill [name] - Kill Player
 * Add /mod - shows Mods commands
 * Add /tp player - teleports to a player in the world
 * Add /ghost - toggles ghost state (you wont move for others when its enabled)
